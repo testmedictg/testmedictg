@@ -83,8 +83,8 @@ If you find incorrect information:
 
 ## 📬 Contact
 
-- Website: https://testmedictg.com  
-- Email: contact@testmedictg.com
+- Website: https://testmedictg.github.io
+- Email: testmedictg@gmail.com
 
 ---
 
